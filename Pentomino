@@ -1,0 +1,9 @@
+Pentomino is in this case a two player board game, invented by Solomon Wolf Golomb. 
+It has a 12*12 board and 12 stones, which are all possible ways to put 5 squares (2d) next to each other.
+
+In the begining those two players have to choose their stones, this happends alternating. 
+Afterwards those stones have to be placed on the board. Whereby it's alternating and once again, it's a 
+2d game, those stones have to lay on the board.
+
+The first player, who isn't able to place one more stone on the board loses.
+A draw is actually possible while all 12 stones are placed.
